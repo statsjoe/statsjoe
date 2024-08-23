@@ -24,8 +24,8 @@
 
 I'm Joe Hatch, a seasoned Head of Product with a passion for driving innovation in SaaS solutions. With extensive experience in product development and affiliate marketing, I lead the product vision at StatsDrone, focusing on creating user-centric solutions that deliver impactful results.
 
-- 🌐 [Personal Site](https://joehat.ch)
-- 🌐 [StatsDrone](https://joehat.ch)
+- 🌐 [joehat.ch](https://joehat.ch)
+- 🌐 [StatsDrone.com](https://statsdrone.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/joehatch)
 - 📧 [Email](mailto:joe@statsdrone.com)
 
